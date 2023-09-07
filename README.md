@@ -1,0 +1,2 @@
+Halo semuanya!
+Jadi konsep projek kami yaitu kami akan membuat website dalam bidang jurnalistik yang bersifat tidak terlalu formal dan berisi berita seputar kegiatan di dalam Politeknik Negeri Malang baik akademik maupun non-akademik. Kami berniat memberi nama website tersebut 'Polinema Fun Magazine'.
